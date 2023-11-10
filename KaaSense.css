@@ -15,7 +15,7 @@ body {
     left: 437px;
     top: 612px;
 }.ds4 .stick {
-    background: url(https://i.imgur.com/UbY1JcO.png);
+    background: url(https://i.imgur.com/VMPbrIG.png);
     width: 181px;
     height: 181px;
 } .ds4 .stick.pressed.left, .ds4 .stick.pressed.right {
@@ -126,17 +126,17 @@ body {
     top: 0;
     background-position: 0 0;
 } .ds4 .face.down {
-    left: 84px;
     top: 149px;
+    left: 84px;
     background-position: 96px 0;
 } .ds4 .face.left {
     top: 84px;
     left: 0;
-    background-position: 0 0;
+    background-position: 192px 0;
 } .ds4 .face.right {
     top: 84px;
-    left: 308px;
-    background-position: 0 0;
+    left:  148px;
+    background-position: 308px 0;
 } .ds4 .face.pressed {
     background-position-y: 116px;
 }
