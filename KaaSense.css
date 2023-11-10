@@ -66,11 +66,6 @@ body {
 } .ds4 .start {
     background-position: 45px 0;
     float: right;
-/*} .ds4 .dpad {
-    width: 264px;
-    height: 265px;
-    left: 161px;
-    top: 358px;*/
 } .ds4 .face {
     background: none;
 } .ds4 .bumpers {
@@ -84,7 +79,7 @@ body {
     height: 72px;
     opacity: 0;
 } .ds4 .bumper.right {
-    margin-right: 6px;
+    margin-right: 0;
 } .ds4 .triggers {
     width: 1151px;
     height: 189px;
