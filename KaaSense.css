@@ -127,15 +127,15 @@ body {
 } .ds4 .face.down {
     top: 149px;
     left: 84px;
-    background-position: 96px 0;
+    background-position: -96px 0;
 } .ds4 .face.left {
     top: 84px;
     left: 0;
-    background-position: 192px 0;
+    background-position: -142px 0;
 } .ds4 .face.right {
     top: 84px;
     left:  148px;
-    background-position: 308px 0;
+    background-position: -308px 0;
 } .ds4 .face.pressed {
     background-position-y: 116px;
 }
