@@ -21,7 +21,7 @@ body {
 } .ds4 .stick.pressed.left, .ds4 .stick.pressed.right {
     background-position: -181px 0;
 } .ds4 .stick.right {
-    top: o;
+    top: 0;
     left: 494px;
 } .ds4 .abxy {
     width: 330px;
@@ -41,7 +41,7 @@ body {
     top: 226px;
 } .ds4 .b {
     background-position: 206px 0;
-    left: 103px;
+    left: 227px;
     top: 113px;
 } .ds4 .x {
     background-position: 0 0;
@@ -128,15 +128,15 @@ body {
 } .ds4 .face.down {
     left: 84px;
     top: 149px;
-    background-position: 0 96px;
+    background-position: 96px 0;
 } .ds4 .face.left {
     top: 84px;
     left: 0;
-    background-position: 192px 0;
+    background-position: 0 0;
 } .ds4 .face.right {
     top: 84px;
-    left: -116px;
-    background-position: 308px 0;
+    left: 308px;
+    background-position: 0 0;
 } .ds4 .face.pressed {
     background-position-y: 116px;
 }
