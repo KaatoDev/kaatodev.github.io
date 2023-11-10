@@ -16,13 +16,13 @@ body {
     top: 612;
 }.ds4 .stick {
     background: url(https://i.imgur.com/UbY1JcO.png);
-    width: 362px;
+    width: 181px;
     height: 181px;
 } .ds4 .stick.pressed.left, .ds4 .stick.pressed.right {
     background-position: -181px 0;
 } .ds4 .stick.right {
     top: 0;
-    left: 255px;
+    left: 181px;
 } .ds4 .abxy {
     width: 330px;
     height: 329px;
