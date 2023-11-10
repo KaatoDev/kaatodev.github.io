@@ -22,7 +22,7 @@ body {
     background-position: -181px 0;
 } .ds4 .stick.right {
     top: 0;
-    left: 181px;
+    left: 313px;
 } .ds4 .abxy {
     width: 330px;
     height: 329px;
@@ -38,19 +38,19 @@ body {
 } .ds4 .a {
     background-position: 103px 0;
     left: 113px;
-    top: 0px;
+    top: 226px;
 } .ds4 .b {
     background-position: 206px 0;
     left: 103;
-    top: 103px;
+    top: 113px;
 } .ds4 .x {
     background-position: 0 0;
     left: 0px;
-    top: 103px;
+    top: 113px;
 } .ds4 .y {
     background-position: 309px 0;
     left: 113px;
-    top: 226px;
+    top: 0px;
 } .ds4 .arrows {
     left: 391px;
     top: 286px;
