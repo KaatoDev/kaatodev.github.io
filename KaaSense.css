@@ -36,26 +36,26 @@ body {
     background-position-y: -103px;
     margin-top: 0;
 } .ds4 .a {
-    background-position: 309px 0;
+    background-position: 103px 0;
     left: 113px;
-    top: 226px;
+    top: 0px;
 } .ds4 .b {
     background-position: 206px 0;
-    left: 0;
-    top: 112px;
+    left: 103;
+    top: 103px;
 } .ds4 .x {
     background-position: 0 0;
     left: 0px;
     top: 103px;
 } .ds4 .y {
-    background-position: 103px 0;
+    background-position: 309px 0;
     left: 113px;
-    top: 0px;
+    top: 226px;
 } .ds4 .arrows {
-    left: 161px;
-    top: 358px;
-    width: 264px;
-    height: 265px;
+    left: 391px;
+    top: 286px;
+    width: 766px;
+    height: 72px;
 } .ds4 .quadrant { 
     display: none; 
 } .ds4 .back, .ds4 .start {
@@ -70,10 +70,10 @@ body {
     /*margin-right: 16px;*/
     float: right;
 } .ds4 .dpad {
-	width: 144px;
-    height: 144px;
-    left: 466px;
-    top: 196px;
+    left: 161px;
+    top: 358px;
+    width: 264px;
+    height: 265px;
 } .ds4 .face {
     background: none;
 } .ds4 .bumpers {
