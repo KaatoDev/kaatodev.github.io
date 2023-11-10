@@ -24,17 +24,17 @@ body {
     top: 0;
     left: 255px;
 } .ds4 .abxy {
-    width: 264px;
-    height: 265px;
-    left: 161px;
-    top: 358px;
+    width: 330px;
+    height: 329px;
+    left: 1090px;
+    top: 326px;
 } .ds4 .button {
     background: url(https://i.imgur.com/N606t6n.png);
     width: 103px;
     height: 103px;
 } .ds4 .button.pressed {
-  	background-position-y: -103px;
-	margin-top: 0;
+    background-position-y: -103px;
+    margin-top: 0;
 } .ds4 .a {
     background-position: -309px 0;
     left: 59px;
