@@ -65,13 +65,12 @@ body {
     opacity: 0;
 } .ds4 .start {
     background-position: 45px 0;
-    /*margin-right: 16px;*/
     float: right;
-} .ds4 .dpad {
+/*} .ds4 .dpad {
     width: 264px;
     height: 265px;
     left: 161px;
-    top: 358px;
+    top: 358px;*/
 } .ds4 .face {
     background: none;
 } .ds4 .bumpers {
@@ -97,7 +96,7 @@ body {
     opacity: 0;
 } .ds4 .trigger.right {
     background-position: -194px 0;
-	transform: rotateY(0);
+    transform: rotateY(0);
 } .ds4 .touchpad {
     width: 616px;
     height: 335px;
