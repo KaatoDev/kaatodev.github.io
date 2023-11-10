@@ -62,8 +62,6 @@ body {
     background: url(https://i.imgur.com/errqdcG.png);
     width: 45px;
     height: 71px;
-    /* margin-top: -8px; 391 286 */
-    margin-left: -45px;
     opacity: 0;
 } .ds4 .start {
     background-position: 45px 0;
